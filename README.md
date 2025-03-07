@@ -1,5 +1,5 @@
-git clone https://github.com/Aloui08/My-first-calculator.git
+1 : git clone https://github.com/Aloui08/My-first-calculator.git
 
-cd My-first-calculator
+2 : cd My-first-calculator
 
-python calculator.py
+3 : python calculator.py
