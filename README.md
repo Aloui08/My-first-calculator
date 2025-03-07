@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Aloui Ahmed
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- ⚡ Fun fact: I hate gay people
+
